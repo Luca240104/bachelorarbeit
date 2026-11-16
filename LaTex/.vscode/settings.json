@@ -1,0 +1,26 @@
+{
+  "[latex]": {
+    "editor.wordWrap": "on"
+  },
+  "latex-workshop.latex.outDir": "%DIR%/output",
+  "latex-workshop.latex.recipe.default": "first",
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "pdfLaTeX + BibTeX",
+      "tools": [
+        "build-project"
+      ]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "build-project",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-File",
+        "%DIR%/build.ps1"
+      ]
+    }
+  ]
+}

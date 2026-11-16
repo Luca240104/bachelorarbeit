@@ -1,0 +1,76 @@
+Notizen nach Gespräch mit André:
+- Was ist eigentlich ein Programmieranfänger? (evtl. Bezug auf HanseMerkur, z.B. Auszubildene/Studenten)
+
+- Eventuell ganz schlanke Evaluation 'light' mithilfe von Experten oder mit Beispieltickets
+- Aber klar begründen, warum man eine Evaluation schlank oder gar nicht macht und dass man bewusst abweicht vom Design Science Research
+
+- PRIMM nochmal untersuchen, inwiefern es passend ist, eventuell Schülernähe bei Auszubildenden anführen.
+Einfach wichtig ist zu zeigen, dass man sich darüber Gedanken macht und es begründen kann
+
+Sonstiges:
+- Aufpassen bei Wortwahl "Risiko … belegen" Wie belegt man ein Risiko?
+- Für 7.2: Welche Anforderungen aus 6.2 können messbar gemacht werden, wie man eine Evaluation gestalten würde, z.B. mit welcher Art von Vergleichsgruppen, Zeitraum, Zielgruppe)
+- Demonstration statt Evaluation anhand von Tickets
+- Der vollständige Leitfaden sollte in den Leitfaden
+
+Priorisierung Forschungsfragen:
+1. Prio: zweite Forschungsfrage
+2. Prio: dritte Forschungsfrage
+
+Reihenfolge der Kapitelbearbeitung:
+- 2.1
+- 5.1
+- 4.1 & 4.2 & 4.3
+- 5.2
+- 2.2
+- 6.1
+- 6.2
+- 6.3
+- 2.2 nachschärfen, mit den Erkenntnissen die man tatsächlich bei der Entwicklung gemacht hat
+- 7.1
+- 7.2 (danach muss ich wahrscheinlich 6.3 nochmal ran)
+- 7.3
+- 1 Einleitung
+- 8.
+- 3. Definitionen (vorher aber schon währenddessen Notizen machen)
+
+
+
+Arbeitsergebnis 1. Woche:
+- Quellensammlung inklusive Stichpunkten, was in den Quellen enthalten ist und Bewertung, wie geeignet die Quelle ist und für welche Kapitel relevant ist
+- LaTex-Formatierung
+- Methodik geklärt haben (im Rahmen der Recherche)
+- Kapitel 2.1 schreiben (Protokoll der Recherche)
+- Was brauche ich von wem bis wann? (z.B. Studenten aus der Hanse, Experteninterviews, Testleser)
+
+Arbeitsergebnis 2. Woche:
+- 5.1 schreiben
+- Kapitel 4.1 - 4.3 komplett fertig haben
+
+3. Woche:
+- 5.2 schreiben
+- 2.2 schreiben
+
+4. Woche:
+- 6.1, 6.2 und 6.3 zusammen mit 2.2
+
+5. Woche:
+- 6.2 und 6.3 zusammen mit 2.2 abschließen
+- Kapitel 7.1 fertig
+- 7.2 anfangen/umreißen
+
+6. Woche:
+- 7.2 und 7.3 abschließen
+
+7. Woche:
+- Einleitung und Ausblick
+- Definitionen
+
+8. Woche:
+- Puffer
+
+
+
+
+
+
