@@ -8,7 +8,6 @@
 \usepackage{xcolor}
 \usepackage[backend=bibtex,style=ieee,date=long,doi=true,url=true,isbn=false]{biblatex}
 \addbibresource{literature.bib}
-% Current IEEE punctuation for DOIs and published online material.
 \DeclareFieldFormat{doi}{doi\addcolon\space
   \ifhyperref{\href{https://doi.org/#1}{\nolinkurl{#1}}}{\nolinkurl{#1}}}
 \renewbibmacro*{doi+eprint+url}{%
@@ -48,23 +47,28 @@
 \graphicspath{{assets/}}
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 \begin{document}
-% Optionales Deckblatt. Angaben in metadata.tex eintragen.
-% \input{titlepage}
 
 \pagenumbering{Roman}
 \pdfbookmark[1]{Inhaltsverzeichnis}{toc}
 \tableofcontents
 \clearpage
 
-% Bei Bedarf das Tabellenverzeichnis aktivieren.
-% \phantomsection\addcontentsline{toc}{section}{Tabellenverzeichnis}
-% \listoftables
-% \clearpage
-
 \pagenumbering{arabic}
 \input{chapters/01_einleitung}
-\input{chapters/02_hauptteil}
-\input{chapters/03_fazit}
+\pagebreak[0]
+\input{chapters/02_methodisches_vorgehen}
+\pagebreak[0]
+\input{chapters/03_definitionen}
+\pagebreak[0]
+\input{chapters/04_menschliche_expertise}
+\pagebreak[0]
+\input{chapters/05_wissensaufbau}
+\pagebreak[0]
+\input{chapters/06_leitfadenentwicklung}
+\pagebreak[0]
+\input{chapters/07_anwendung_des_leitfadens}
+\pagebreak[0]
+\input{chapters/08_fazit_und_ausblick}
 
 \clearpage
 \begin{otherlanguage}{american}
