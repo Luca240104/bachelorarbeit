@@ -35,7 +35,40 @@ Reihenfolge der Kapitelbearbeitung:
 - 3. Definitionen (vorher aber schon währenddessen Notizen machen)
 
 
+=======
+Arbeitsergebnis 1. Woche:
+- Quellensammlung inklusive Stichpunkten, was in den Quellen enthalten ist und Bewertung, wie geeignet die Quelle ist und für welche Kapitel relevant ist
+- LaTex-Formatierung
+- Methodik geklärt haben (im Rahmen der Recherche)
+- Kapitel 2.1 schreiben (Protokoll der Recherche)
+- Was brauche ich von wem bis wann? (z.B. Studenten aus der Hanse, Experteninterviews, Testleser)
+- Notizen von dem letzten Termin durcharbeiten
 
+Arbeitsergebnis 2. Woche:
+- 5.1 schreiben
+- Kapitel 4.1 - 4.3 komplett fertig haben
+
+3. Woche:
+- 5.2 schreiben
+- 2.2 schreiben
+
+4. Woche:
+- 6.1, 6.2 und 6.3 zusammen mit 2.2
+
+5. Woche:
+- 6.2 und 6.3 zusammen mit 2.2 abschließen
+- Kapitel 7.1 fertig
+- 7.2 anfangen/umreißen
+
+6. Woche:
+- 7.2 und 7.3 abschließen
+
+7. Woche:
+- Einleitung und Ausblick
+- Definitionen
+
+8. Woche:
+- Puffer
 
 
 
