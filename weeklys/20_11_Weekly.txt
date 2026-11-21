@@ -1,0 +1,8 @@
+Weekly Notizen 20.11.
+
+- Argumentation für Kasunic:
+	-> Kasunic kommt aus dem Software Engineering Umfeld, https://www.sei.cmu.edu/authors/mark-kasunic/
+	-> Die Carneige Universität führt das Handbuch immer noch in ihrer digitalen Bibliothek
+	-> Nochmal in Übersichtsquelle suchen, warum die ihn empfohlen haben
+	-> Die References von Kasunic anschauen
+	-> Laut Molleri sind die drei referenzierten Quellen die einzigen, die den Gesamtprozess betrachten

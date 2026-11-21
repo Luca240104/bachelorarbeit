@@ -7,11 +7,13 @@
 ToDos:
 - Diese Woche die Umfrage vorbereiten
 - Diese Woche außerdem Konzept für Kurzevaluation vorbereiten
-
 - Auch eine Quelle für das Vorgehen der Literaturrechersche und Bewertung der Quellen suchen,
 z.B. Jan vom Brocke Literaturrechersche
+oder
 - Reconstructing the Giant: On the Importance of Rigour in Documenting the Literature Search Process
 - https://www.tu.berlin/wm/bibliothek/forschen-lehren/systematic-literature-reviews/beschreibung-systematic-literature-review-methode
 (Konzeptmatrix von Webster & Watson)
+
+
 - Auch angeben und begründen, welche Quellenanbieter ich genutzt habe, auch vllt "nur nach 2022 weil Chatgpt" oder "nur peer reviewed" oder nur "nur begutachtete Konferenzbeiträge"
 oder manche halt ausschließen

@@ -1,0 +1,29 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
+\contentsline {subsection}{Motivation}{1}{section*.1}%
+\contentsline {subsection}{Relevanz des Problems}{1}{section*.2}%
+\contentsline {subsection}{Zielsetzung und Forschungsfragen}{1}{section*.3}%
+\contentsline {subsection}{Struktureller Aufbau der Arbeit}{1}{section*.4}%
+\contentsline {section}{\numberline {2}Methodisches Vorgehen}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Orientierung an Design Science Research}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Vorgehen bei der Literaturrecherche}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Vorgehen bei der Fragebogenentwicklung}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Vorgehen bei der Evaluation des Konzepts}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Definitionen}{4}{section.3}%
+\contentsline {section}{\numberline {4}Bedeutung menschlicher Expertise in der KI-gestützten Softwareentwicklung}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Generative KI und KI-Agenten in der Softwareentwicklung}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Aufgaben menschlicher Entwickler in der KI-gestützten Softwareentwicklung}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Folgen von fehlenden Programmierfähigkeiten in Unternehmen}{4}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Wissensaufbau beim Einstieg in die Programmierung}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Grundlegende Lerntheorien und -prinzipien}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Auswirkungen von KI-Nutzung auf den Lernprozess}{4}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Entwicklung eines konzeptionellen Leitfadens für den Kompetenzaufbau in KI-gestützter Softwareentwicklung}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Die HanseMerkur als Untersuchungskontext}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Anforderungen an ein Konzept zum Kompetenzaufbau}{5}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Aufbau und Regeln des Konzepts}{5}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Möglichkeiten zur Anwendung des Leitfadens in der HanseMerkur}{5}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Praktische Einsatzmöglichkeiten für das Konzept im Unternehmen}{5}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Möglichkeiten für eine spätere Evaluation der Wirksamkeit}{5}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Grenzen des Leitfadens}{5}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Fazit und Ausblick}{5}{section.8}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

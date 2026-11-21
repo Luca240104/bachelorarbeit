@@ -1,0 +1,66 @@
+Was möchte ich überhaupt messen
+-> Wie Programmieranfänger mit unterschiedlichen Erfahrungsstufen den Einfluss von 
+verschiedenen Arten von KI-Nutzung auf ihren eigenen Prozess des Kompetenzaufbaus einschätzen
+-> Gibt es vielleicht Widersprüche zu Quellen, welche die Auswirkungen konkret gemessen haben?
+-> Gibt es unterschiede zwischen Art der KI-Nutzung und dem gefühlten Einfluss auf die Lernqualität?
+
+1. Einführung/Teilnahmevoraussetzungen
+
+2. Ausbildung und Vorerfahrung
+
+3. KI-Nutzungsverhalten
+
+4. Wahrgenommener KI-Einfluss
+
+
+Methodik:
+Quellen, die relevant sein könnten:
+ID 2, ID 4 sehr relevant und ID 1 ebenfalls relevant
+Ergänzend evtl ID 3 (Speziell für Online.Umfragen)
+
+
+Brainstorming:
+Entwicklung mit Goal-Question-Metric-Ansatz (GQM) (vgl Linaker und primär Ciolkowski):
+-> Beispielsweise wäre das Goal (G) die Messung des wahrgenommenen Einflusses von KI-Nutzung auf den Lernprozess, woraus sich die Question (Q) ableitet, "Wie nehmen Anfänger den Einfluss au ihre eigenständige Problemlösefähigkeit wahr" und Metric (M) wäre dann Anrtworten auf zb einer fünfstufigen Skala
+
+- Kognitive Interviews als Validierung des Fragebogens wären eine geeignete Möglichkeit, dabei lässt man Testpersonen erklären, wie sie eine Frage verstehen (nach Linaker)
+
+- Definition Anfänger: Evtl Personen in ihrer ersten Ausbildung, die Programmierungskenntnisse umfasst? Maximal vorher 2 Jahre Programmiererfahrung?
+
+Hauptquellen:
+1. Linaker (ACHTUNG: Für GQM gibt's ne Primärquelle, Ciolkowski et al)
+2. Molleri als Übersicht
+3. Kasunic
+
+Planung:
+1. Forschungsziele definieren
+	- KI-Nutzungsverhalten von Programmieranfängern erfassen
+	- Subjektiv wahrgenommenen Einfluss von KI-Nutzung auf den Lernprozess abfragen
+	- Mögliche Zusammenhänge zwischen KI-Nutzungsweisen und wahrgenommenem Lerneinfluss untersuchen
+	- deskriptive, explorative Querschnittsbefragung (deskriptiv weil ich beschreibende Dinge abfrage, explorativ weil ich mögliche Zusammenhänge erkennen will, Querschnitt weil einmalig in bestimmtem Zeitraum)
+2. Zielgruppe bestimmen
+	- Studierende und Auszubildende mit mindestens etwas Programmiererfahrung (wie konkret definieren?)
+	- Studiengang/Ausbildung und Semester/Ausbildungsjahr mit erfassen
+	- Programmiererfahrung (Dauer und selbst eingeschätztes Level erfassen)
+	-> Es müssen klare Grenzen definiert werden, um Ein-/bzw. Ausschluss aus der Umfrage zu gewährleisten
+
+3. Stichprobenverfahren planen
+	- Nicht-probalistische Gelegenheitsstichprobe durch freiwillige Teilnahme (heißt, dass die Teilnehmenden nicht zufällig sondern zb aufgrund Erreichbarkeit ausgewählt werden, dadurch eingeschränkte Gesamtübertragbarkeit
+	- Rekrutierung der Teilnehmenden erfassen
+	- Planziel ist mind. 80 auswertbare Antworten
+	- Mögliche Verzerrungen berücksichtigen (zb demographisch bzw lokal etc, dadurch das viele dualis befragt werden vllt)
+	- Dadurch keine repräsentative Aussagen über alle Programmieranfänger möglich, es werden Überrepräsentationen auftauchen
+4. Fragebogen entwickeln
+	- Standardisierter Online-Fragebogen
+	- Aufbau steht oben
+	- Überwiegend geschlossene Fragen und 5-7-stufigen Antwortskalen (Menold & Bogner (2015))
+	- Fragen wissenschaftlich mittels GQM herleiten (Goal Question Metric)
+	- Bearbeitungsdauer
+5. Fragebogen überprüfen (Durch Pretests)
+	- Pretest mit einigen Leuten, denen danach ergänzende Fragen gestellt werden oder kognitive Interviews wären noch besser
+6. Daten analysieren
+	- Ungeeignete Antworten nach vorher festgelegten Regeln behandeln
+	- Grafische Darstellung der Ergebnisse
+	- optional Korrelationsanalysen
+7. Schlussfolgerungen ziehen und Ergebnisse dokumentieren
+

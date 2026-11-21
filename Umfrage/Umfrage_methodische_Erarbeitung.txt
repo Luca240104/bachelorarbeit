@@ -1,0 +1,7 @@
+Oberste Fragestellung:
+Wie unterscheiden sich die subjektiv wahrgenommenen Auswirkungen verschiedener KI-Nutzungsweisen auf den Lernprozess von Programmieranfängern in Abhängigkeit von ihrer bisherigen Programmiererfahrung?
+
+1. Forschungsziele (Goals):
+	1. KI-Nutzungsverhalten hinsichtlich Häufigkeit und Intensität/Nutzungsweise beschreiben
+	2. Wahrgenommene Auswirkungen auf Codeverständnis, eigenständige Problemlösung und langfristigen 	Kompetenzaufbau erfassen
+	3. Auf Zusammenhänge zwischen Programmiererfahrung, KI-Nutzungsverhalten und wahrgenommenen Auswirkungen 	untersuchen

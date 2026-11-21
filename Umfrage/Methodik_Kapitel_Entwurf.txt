@@ -1,0 +1,14 @@
+Zur Ergänzung der literaturbasierten Untersuchung ist eine Onlinebefragung unterstützend für die Beantwortung der im Zuge der zweiten Forschungsfrage in Kapitel 5.2 gestellte Frage nach den Auswirkungen von KI-Nutzung auf den Lernprozess vorgesehen. 
+Ziel ist es, das Nutzungsverhalten generativer KI bei Programmieranfängern sowie deren subjektiv wahrgenommenen Einfluss auf den eigenen Lernprozess zu untersuchen. Dabei geht es hauptsächlich um die Auswirkungen auf das unmittelbare Codeverständnis, die Fähigkeit zur eigenen Problemlösung und den langfristigen Kompetenzaufbau in der Softwareentwicklung.
+
+Die Untersuchung ist als deskriptiv-explorative Querschnittsbefragung konzipiert. Während die deskriptive Komponente der Beschreibung des KI-Nutzungsverhaltens und der wahrgenommenen Auswirkungen dient, sollen im explorativen Teil mögliche Zusammenhänge zwischen Programmiererfahrung, Nutzungsweisen und subjektiv wahrgenommenen Lerneinflüssen untersucht werden. Die Datenerhebung erfolgt einmalig mittels eines standardisierten Online-Fragebogens.
+
+Die methodische Konzeption orientiert sich an den Richtlinien zur Durchführung von Umfragen im Software Engineering. Molléri et al. (2016) identifizieren und vergleichen hierzu bestehende methodische Vorgehensmodelle. Als Grundlage für die geplante Erhebung dienen insbesondere die von Kasunic (2005) und Linåker et al. (2015) beschriebenen Vorgehensweisen.
+
+Die Entwicklung des Fragebogens soll sich am Goal-Question-Metric-Ansatz orientieren, der bei Linåker et al. (2015, S. 10) beschrieben wird. Dabei werden aus den Untersuchungszielen zunächst übergeordnete Fragestellungen und anschließend messbare Merkmale sowie konkrete Fragebogenitems abgeleitet.
+
+Der Fragebogen soll vier Themenbereiche umfassen: Teilnahmevoraussetzungen, Ausbildung und Programmiererfahrung, KI-Nutzungsverhalten sowie subjektiv wahrgenommene Auswirkungen auf den Lernprozess.
+
+Die Rekrutierung der Teilnehmenden ist über universitäre E-Mail-Verteiler sowie betriebliche Kontakte zu Studierenden und Auszubildenden vorgesehen. Aufgrund der freiwilligen Teilnahme und der eingeschränkten Verfügbarkeit der potenziell Teilnehmenden handelt es sich um eine nicht-probabilistische Stichprobe. Die damit verbundenen Einschränkungen der Übertragbarkeit auf die gesamte Zielgruppe wird bei der Interpretation der Ergebnisse berücksichtigt.
+
+Vor der eigentlichen Datenerhebung ist eine Überprüfung des Fragebogens durch einen Pretest mit Personen aus der Zielgruppe vorgesehen. Dabei sollen insbesondere Verständlichkeit, Eindeutigkeit und technische Funktion überprüft werden, wenn möglich über einige kognitive Interviews
