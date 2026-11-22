@@ -1,0 +1,8 @@
+Fragen an André:
+- Wo könnte ich die Motivation und Zieldefinition machen die DSR fordert? ich hätte es aktuell für die Einleitung geplant.
+
+- In Methodik 2.1 bei der "Problemidentifikation" also Step 1 von DSR, habe ich es so formuliert, dass die Problematik noch nicht quasi vorweggenommen wird, sondern dass ich nur schreibe, dass ich die Herausforderungen untersuche
+
+- Ich habe Kapitel 4.3 zu 5.3 gemacht, weil ich sonst schon die eventuelle Problematik der "fehlenden Programmierkenntnisse" vorweggenommen hätte, bevor ich überhaupt gezeigt habt, welchen Einfluss KI-gestützte Softwareentwicklung hat
+
+- irgendwo muss ich die Forschungsfragen vorstellen, vermutlich in Kapitel 1 Einleitung oder 1.2 halt
