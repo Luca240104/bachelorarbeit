@@ -1,0 +1,62 @@
+Kapitel 4.1: Generative KI und KI-Agenten
+-> Wie werden generative KI und KI-Agenten in der Softwareentwicklung eingesetzt? Welche Fähigkeiten und Einsatzbereiche?
+
+0.) Ein- und Ausschlusskriterien festlegen
+-> Thematische Relevanz: Generative KI- KI-Programmierassistenten oder KI-Agenten im Kontext der Softwareentwicklung
+-> Aktualität: Veröffentlichungen ab 2023, da Chatgpt Ende 2022 released wurde
+-> Wissenschaftliche Qualität: Peer-reviewte Veröffentlichungen werden bevorzugt, außerdem müssen Experimente oder Untersuchungen methodisch nachvollziehbar sein
+-> Sprache: Deutsch oder Englisch
+-> Für betrieblichen Einsatz werden zusätzlich Branchenumfragen zugelassen
+
+Ab JETZT nach Brocke et al:
+1.) Untersuchungsumfang festlegen:
+-> Leitfrage: Welche Fähigkeiten und Einsatzmöglichkeiten bieten generative KI und KI-Agenten in der Softwareentwicklung, und wie werden diese Technologien bereits in Unternehmen eingesetzt?
+-> Literaturabdeckung "central", heißt ich werde nur die zentralen einschlägigen Veröffentlichungen untersuchen und habe keinen Anspruch auf Vollständigkeit
+
+2.) Themengebiet konzeptualisieren, durch Anschauen von Übersichtsarbeiten
+Gefundene Übersichtsarbeiten:
+
+Karlovs-Karlovskis (2024) wurde zur Identifikation zentraler Anwendungsbereiche und Fachbegriffe generativer KI im Software Engineering herangezogen. Insbesondere die Klassifikation der untersuchten Softwareentwicklungsbereiche und die Schlüsselwortanalyse dienten als Grundlage für die weitere Konzeptualisierung.
+
+Hou et al. (2024) – Conceptualization of Topic
+Systematische Literaturübersicht zu 395 Veröffentlichungen über LLMs im Software Engineering.
+Insbesondere wurden Begriffe zu Codegenerierung, Codeverständnis, Fehlersuche, Softwaretests und Softwarewartung identifiziert.
+
+Wang et al. (2026) – Conceptualization of Topic
+Strukturierte Übersichtsarbeit zu KI-Coding-Agenten und ihrer Integration in die Softwareentwicklung. Die in Abschnitt 1.4 dokumentierte Suchstrategie sowie die Klassifikation KI-gestützter Entwicklungssysteme wurden zur Identifikation relevanter Fachbegriffe herangezogen. Insbesondere wurden Begriffe zu agentischer Softwareentwicklung, autonomer Aufgabenbearbeitung und Mensch-KI-Interaktion ergänzt.
+
+
+3.) Suchmatrix aus den gefundenen Ergebnissen erstellen:
+
+Generative KI / Sprachmodelle: "generative AI", "large language model*", "LLM*"	(11, 12)
+a) KI-Programmierassistenten: "AI coding assistant*", "GitHub Copilot", "AI-assisted programming" (11, 13)
+b) KI-Agenten: "coding agent*", "code agent*", "agentic AI", "agentic software development" (13)
+c) Softwareentwicklung: "software engineering", "software development", "programming" (12, 13)
+d) Einsatzbereiche: "code generation", "code completion", "software testing", "program repair", "code review" (12, 13)
+e) Betrieblicher Einsatz: "adoption", "developer workflow", "developer productivity", "industry", "enterprise" (13)
+
+
+3.) Festlegung von Ein- und Ausschlusskriterien
+- Literaturabdeckung: Central (nur zentrale Veröffentlichungen und ohne Anspruch auf Vollständigkeit)
+- Datenbanken: …
+Auswahlkriterien: In 0.) beschrieben
+
+
+4.) Iterative Literatursuche
+
+- Generative KI und ihre Einsatzmöglichkeiten in der Softwareentwicklung:
+("generative AI" OR "large language models" OR "LLM")
+AND
+("software engineering" OR "software development")
+
+- KI-Agenten in der Softwareentwicklung
+("coding agents" OR "code agents" OR "agentic software development")
+AND
+("software engineering" OR "software development")
+
+- Tatsächlicher betrieblicher Einsatz
+("generative AI" OR "AI coding assistants" OR "coding agents")
+AND
+("software engineering" OR "software development")
+AND
+("adoption" OR "industry" OR "enterprise" OR "professional developers")

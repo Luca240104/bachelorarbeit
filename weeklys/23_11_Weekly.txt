@@ -1,8 +1,28 @@
 Fragen an André:
-- Wo könnte ich die Motivation und Zieldefinition machen die DSR fordert? ich hätte es aktuell für die Einleitung geplant.
+- Mit Abgabe der Bachelorarbeit muss André eine betriebliche Stellungnahme formulieren, die bei Benotung berücksichtigt wird
+
+- Wo könnte ich die Motivation und Zieldefinition machen die DSR fordert? ich hätte es aktuell für die Einleitung geplant. -> Kommt in die Einleitung
+- irgendwo muss ich die Forschungsfragen vorstellen, vermutlich in Kapitel 1 Einleitung oder 1.2 halt
+-> Auch Einleitung
 
 - In Methodik 2.1 bei der "Problemidentifikation" also Step 1 von DSR, habe ich es so formuliert, dass die Problematik noch nicht quasi vorweggenommen wird, sondern dass ich nur schreibe, dass ich die Herausforderungen untersuche
+-> in Einleitung vorsichtig formulieren, Studien deuten daraufhin, dass … kann. (1-2 Studien angeben)
 
 - Ich habe Kapitel 4.3 zu 5.3 gemacht, weil ich sonst schon die eventuelle Problematik der "fehlenden Programmierkenntnisse" vorweggenommen hätte, bevor ich überhaupt gezeigt habt, welchen Einfluss KI-gestützte Softwareentwicklung hat
+-> Macht Sinn
 
-- irgendwo muss ich die Forschungsfragen vorstellen, vermutlich in Kapitel 1 Einleitung oder 1.2 halt
+- Schriftart und Ränder müssen mit Karow abgesprochen werden
+
+
+Notizen während des Gesprächs:
+- Ich muss auch kurz belegen, warum ich welche Datenbanken für die spezifische Quellensuche gewählt
+- Die Vorwärtssuche/Snowballing dann bei den Quellen machen, die ich qualitätsgeprüft habe UND bei Quellen, in denen relevante Ergebnisse wie eine Beantwortung der Forschungsfrage drin ist
+- ACM als zusätzliche Datenbank nehmen
+- Konzeptmatrix erstellen ggf für Anhang, also für jede Quelle Ankreuzen für welche Einzelthemenbereiche eines Kapitels sie Relevanz hat (Im Rahmen der Qualitätssichtung der Quellen) (analog Webster und Watson)
+
+- Hevners Design Science Research könnte ich auch nutzen für einige Dinge, die Design Science Research betreffen. Vielleicht ergänzen die sich mit Peffers
+
+- Quelle, die den Einfluss von KI-Nutzung auf Lernprozess behandelt:
+https://www.pnas.org/doi/10.1073/pnas.2422633122
+
+
